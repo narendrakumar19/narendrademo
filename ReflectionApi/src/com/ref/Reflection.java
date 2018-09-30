@@ -12,6 +12,7 @@ public static void main(String[] args)
 	{
 		System.out.println(method.getName());
 		System.out.println("hi");
+		System.out.println("nari");
 	}
 	
 	
