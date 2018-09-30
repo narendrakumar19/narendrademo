@@ -11,6 +11,7 @@ public static void main(String[] args)
 	for(Method method:methods)
 	{
 		System.out.println(method.getName());
+		System.out.println("hi");
 	}
 	
 	
